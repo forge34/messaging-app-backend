@@ -1,4 +1,9 @@
 [![Run with Docker Compose](https://img.shields.io/badge/run%20with-docker%20compose-blue?logo=docker&style=flat-square)](https://docs.docker.com/compose/install/)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D22-green?logo=node.js&style=flat-square)](https://nodejs.org/)
+[![Postgres](https://img.shields.io/badge/postgres-16-blue?logo=postgresql&style=flat-square)](https://www.postgresql.org/)
+[![Prisma](https://img.shields.io/badge/ORM-Prisma-2D3748?logo=prisma&style=flat-square)](https://www.prisma.io/)
+[![License](https://img.shields.io/github/license/forge34/messaging-app-backend?style=flat-square)](./LICENSE)
+[![Last Commit](https://img.shields.io/github/last-commit/forge34/messaging-app-backend?style=flat-square)](https://github.com/forge34/messaging-app-backend/commits/main)
 
 # messaging-app-backend
 
